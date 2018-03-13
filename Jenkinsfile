@@ -1,4 +1,4 @@
-node {   
+node('Test') {   
     stage('NuGet Resotre')
     {
 
